@@ -15,7 +15,7 @@ En la raíz del proyecto, abrimos dos símbolos del sistema o consola, debes eje
 
 adicionalmente, para no tener que instalar manualmente la vehiclemanager.sql podemos correr el comando
 
-    php artisan migrate
+    php artisan migrate --seed
 
 Esto nos generará la base de datos necesaria para probar la aplicación
 
